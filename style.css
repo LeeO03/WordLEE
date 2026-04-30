@@ -54,14 +54,14 @@ p {
   display: inline-block;
   padding: 10px;
   margin: 1px;
-  background-image: linear-gradient(to bottom, #e9d5f6, #bc9fd0);
+  background-color: #e9d5f6;
   border: 1px outset #9c7ab3;
   border-radius: 5px;
   cursor: pointer;
   text-align: center;
 }
 .key:hover, #reset:hover, #save:hover {
-  background-image: linear-gradient(to bottom, #9c7ab3, #9c7ab3);
+  background-color: #9c7ab3;
   border: 1px solid #69467c;
 }
 #reset:hover, #save:hover {
