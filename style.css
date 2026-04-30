@@ -161,4 +161,10 @@ h2 {
   padding-top: 10px;
   font-size: 1.6em;
 }
+h2 .emptyMsg {
+  font-size: 1rem;
+}
+.emptyMsg {
+  font-size: 1rem;
+}
 }
