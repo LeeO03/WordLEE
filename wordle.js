@@ -8,7 +8,7 @@ const cols = 5;
 const rows = 6;
 
 // Array of potential words
-const wordList = ["APPLE", "KIWIS", "BERRY", "PEARS", "GRAPE"];
+const wordList = ["APPLE", "KIWIS", "BERRY", "PEARS", "GRAPE","MANGO","FRUIT","MELON","LEMON","LIMES","PEACH","GUAVA","PLUMS"];
 
 //Game Dictionary
 const game = {
